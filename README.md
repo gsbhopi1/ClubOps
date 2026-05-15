@@ -41,12 +41,19 @@ ClubOps/
 │
 ├── index.html
 ├── admin.html
+├── admin_profile.html
 ├── clubhead.html
+├── clubhead_budget.html
+├── clubhead_profile.html
 ├── events.html
 ├── budget.html
+├── propose_event.html
 ├── submissions.html
+├── script.js
 ├── style.css
-└── script.js
+├── bg.jpeg
+├── logo.jpeg
+└── README.md
 ```
 
 ## How to Run
