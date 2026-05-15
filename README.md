@@ -46,8 +46,7 @@ ClubOps/
 ├── budget.html
 ├── submissions.html
 ├── style.css
-├── script.js
-└── assets/
+└── script.js
 ```
 
 ## How to Run
